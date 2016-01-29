@@ -3,6 +3,8 @@ Conventional Changelog test repo
 
 https://www.npmjs.com/package/conventional-changelog
 
+https://github.com/ajoslin/conventional-changelog/blob/master/conventions/angular.md
+
 Installation
 ------------
 ```bash
