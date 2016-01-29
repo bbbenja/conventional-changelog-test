@@ -10,6 +10,7 @@ Installation
 ```bash
 npm install -g conventional-changelog
 ```
+Dont forget to add repository url on package.json file
 
 Generate changelog
 ------------------
@@ -24,4 +25,4 @@ Workflow
 . Generate changelog
 . Commit changelog
 . Tag version
-. Bump version
+. Bump version in package.json
