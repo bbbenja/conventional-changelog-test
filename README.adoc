@@ -1,0 +1,16 @@
+Conventional Changelog test repo
+================================
+
+https://www.npmjs.com/package/conventional-changelog
+
+Installation
+------------
+```bash
+npm install -g conventional-changelog
+```
+
+Generate changelog
+------------------
+```bash
+conventional-changelog -p angular -i CHANGELOG.md -w
+```
