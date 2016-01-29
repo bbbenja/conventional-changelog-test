@@ -9,6 +9,7 @@
 ### Features
 
 * **feature1:** add 'feature 1' option db4e592
+* **feature2:** add 'feature 2' option d917cdb
 
 
 
