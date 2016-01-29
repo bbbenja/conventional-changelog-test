@@ -2,11 +2,11 @@
   "name": "conventional-changelog-test",
   "version": "0.0.2",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+"repository": {
+    "type": "git",
+    "url": "https://github.com/bbbenja/conventional-changelog-test.git"
   },
-  "author": "",
+  "author": "Benjamin COUSIN",
   "license": "ISC",
   "dependencies": {}
 }
