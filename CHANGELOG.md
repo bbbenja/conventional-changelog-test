@@ -1,5 +1,15 @@
+<a name="0.0.2"></a>
+## [0.0.2](//compare/0.0.1...v0.0.2) (2016-01-29)
+
+
+### Bug Fixes
+
+* **feature2:** fix some tests 5787ad3, closes #2
+
+
+
 <a name="0.0.1"></a>
-## 0.0.1 (2016-01-29)
+## [0.0.1](//compare/db4e592...0.0.1) (2016-01-29)
 
 
 ### Bug Fixes

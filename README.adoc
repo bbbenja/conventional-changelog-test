@@ -16,3 +16,12 @@ Generate changelog
 ```bash
 conventional-changelog -p angular -i CHANGELOG.md -w
 ```
+
+Workflow
+--------
+
+. Do some changes and commit with changelog convention (or not if you don't want to show them in the changelog file)
+. Generate changelog
+. Commit changelog
+. Tag version
+. Bump version
