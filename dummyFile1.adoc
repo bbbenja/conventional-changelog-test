@@ -4,3 +4,5 @@ Dummy file for testing
 add some text
 
 fix some perf
+
+add feature 2
